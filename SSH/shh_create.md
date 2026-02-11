@@ -45,7 +45,7 @@ The key's randomart image is:
 
 ### On Windows
 
-the file might be here: "C:\Users\write_your_user_name\.ssh"
+the file might be here: "C:\Users\write_your_user_name\\.ssh"
 
 ### On Linux
 
